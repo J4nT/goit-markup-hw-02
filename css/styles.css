@@ -1,0 +1,21 @@
+html{ 
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+*::before,
+*::after { 
+    box-sizing: inherit;
+}
+
+body{
+    width: min(1440px, 80vw);
+    margin-inline: auto;
+    font-family: 'Roboto','sans-serif';
+    /* background-color: #eee;
+    color:#222; */
+}
+
+a{
+    color: inherit;
+}
