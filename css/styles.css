@@ -1,5 +1,16 @@
+:root{
+
+/*tu wpisujemy wszystkie kolory na stornie*/
+
+
+}
+
 body{ 
     font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    font-weight: 500; /* Sprawzdić jaki jest domyślny dla strony*/
+    
 }
 
 
