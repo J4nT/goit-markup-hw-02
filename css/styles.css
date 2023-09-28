@@ -1,21 +1,20 @@
-html{ 
-    font-family: sans-serif;
-    box-sizing: border-box;
+body{ 
+    font-family: 'Roboto', sans-serif;
 }
 
-*::before,
-*::after { 
-    box-sizing: inherit;
+
+.filters-list{
+color: #4D5AE5;
 }
 
-body{
-    width: min(1440px, 80vw);
-    margin-inline: auto;
-    font-family: 'Roboto','sans-serif';
-    /* background-color: #eee;
-    color:#222; */
-}
+.filter-button:hover
+.filter-button:focus{
+background-color:var(#4D5AE5)  /* Ten fragment poprawić */ 
+} 
 
-a{
-    color: inherit;
+.filter-button{
+    background-color: #E7E9FC;
+    font-family: inherit;
+    cursor: pointer;
+    color: #4D5AE5;
 }
