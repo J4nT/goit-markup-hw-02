@@ -21,22 +21,43 @@ body{
 }
 
 .logo{  
-    font-family: "Ralaway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color:var(--brand-color);
+    color:var(--iris-color);
     text-decoration: none;
+    
 }
 
 .logo-header{
-    color:var(--text-color);
+    color:var(--navy-blue-coloravy-blue-color);
 }
-.logo-link{
+
+.list{ 
+    list-style: none;
+}
+
+.class-index{  
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+
+}
+.link{
     text-decoration: none;
 }
+
+.link-IPC{
+    text-decoration: none;
+    color: var(--ocean-color);
+    color: var(--ocean-color);
+}
+
 
 .link:hover{
     color:var(--link-hover);
