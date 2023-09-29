@@ -69,9 +69,6 @@ color: #2e2f42;
 color:var(--link-hover);
 } /*podświetlenie butonna(obszaru w koło napisu) */
 
-.link{
-    text-decoration: none;
-}
 
 
 .filters-list{
