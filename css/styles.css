@@ -1,8 +1,15 @@
 :root{
-
-/*tu wpisujemy wszystkie kolory na stornie*/
-
-
+--navy-blue-color:#2e2f42;
+--iris-color: #4d5ae5;
+--ocean-color: #404bbf;
+--slate-color: #434455;
+--white-color: #ffffff;
+--cloud-color: #f4f4fd;
+--second-heading-size:36px;
+--second-heading-weight:700;
+--third-heading-size:20px;
+--third-heading-weight:500;
+/*tu wpisujemy wszystkie kolory na stornie z figmy style guide*/
 }
 
 body{ 
@@ -11,6 +18,36 @@ body{
     background-color: #FFFFFF;
     font-weight: 500; /* Sprawzdić jaki jest domyślny dla strony*/
     
+}
+
+.logo{  
+    font-family: "Ralaway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:var(--brand-color);
+    text-decoration: none;
+}
+
+.logo-header{
+    color:var(--text-color);
+}
+.logo-link{
+    text-decoration: none;
+}
+
+.link:hover{
+    color:var(--link-hover);
+} /*Pseudoklasa podświetlająca przy najeździe myszki */
+
+.link:focus{
+color:var(--link-hover);
+} /*podświetlenie butonna(obszaru w koło napisu) */
+
+.link{
+    text-decoration: none;
 }
 
 
