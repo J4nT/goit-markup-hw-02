@@ -187,5 +187,34 @@ letter-spacing: 0.02em;
     color: var(--navy-blue-color);
 }
 .akapit2{
-    
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--slate-color);
+}
+
+.section1{
+    background-color: var(--navy-blue-color);
+
+}
+.header1{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: var(--white-color);
+}
+.button1{
+    background-color: var(--iris-color);
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    }
+.button1:hover{
+background-color: var(--ocean-color);
+}
+.button1:focus{
+    background-color: var(--ocean-color);
 }
