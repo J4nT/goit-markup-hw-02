@@ -214,10 +214,10 @@ letter-spacing: 0.02em;
     letter-spacing: 0.04em;
     cursor: pointer;
     }
-.button1:hover{
+.button-one:hover{
 background-color: var(--ocean-color);
 }
-.button1:focus{
+.button-one:focus{
     background-color: var(--ocean-color);
 }
 .logo-header{
