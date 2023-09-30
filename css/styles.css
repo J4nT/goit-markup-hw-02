@@ -33,7 +33,7 @@ body{
 }
 
 .link{
-   
+   text-decoration: none;
 }
 .logo-studio{
     color:var(--navy-blue-color);
@@ -118,7 +118,7 @@ background-color:var(--ocean-color)
 
 .druga-klasa{
 text-decoration: none;
-}
+} /*nie jestem pewien tego*/
 
 .description{
 line-height: 1.5;
