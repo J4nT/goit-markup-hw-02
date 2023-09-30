@@ -84,6 +84,7 @@ line-height: 1.5;
 color: var(--slate-color);
 list-style: none;
 letter-spacing: 0.02em;
+text-decoration: none;
 }
 .address-link:hover{
     color: var(--ocean-color);
