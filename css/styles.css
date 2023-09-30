@@ -124,5 +124,7 @@ letter-spacing: 0.02em;
 
 .footer{
     background-color: var(--navy-blue-color);
-
+}
+.footer-studio{
+    background-color: var(--cloud-color);
 }
