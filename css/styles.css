@@ -66,14 +66,27 @@ color: #2e2f42;
 
 
 .link:hover{
-    color:var(--link-hover);
+    color:var(--ocean-color);
 } /*Pseudoklasa podświetlająca przy najeździe myszki */
 
 .link:focus{
-color:var(--link-hover);
+color:var(--ocean-color);
 } /*podświetlenie butonna(obszaru w koło napisu) */
 
-
+.address{
+    font-style: normal;
+}
+.address-link{
+font-size: 16px;
+line-height: 1.5;
+color: var(--slate-color);
+}
+.address-link:hover{
+    color: var(--ocean-color);
+}
+.address-link:focus{
+    color: var(--ocean-color);
+}
 
 .filters-list{
 color: #4D5AE5;
