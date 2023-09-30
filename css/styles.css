@@ -137,3 +137,6 @@ letter-spacing: 0.02em;
 .footer-studio{
     color: var(--cloud-color);
 }
+.footer-link{
+    text-decoration: none;
+}
