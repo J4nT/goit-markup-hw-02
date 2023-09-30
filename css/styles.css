@@ -141,7 +141,7 @@ letter-spacing: 0.02em;
 }
 .footer-index{
     line-height: 1.5;
-    color: var(--navy-blue-color);
+    background-color: var(--navy-blue-color);
     letter-spacing: 0.02em;
 }
 
@@ -229,4 +229,7 @@ background-color: var(--ocean-color);
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:var(--slate-color);
+}
+.akapit-footer{
+    color: var(--cloud-color);
 }
