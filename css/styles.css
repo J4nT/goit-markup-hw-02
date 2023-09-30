@@ -29,11 +29,11 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:var(--iris-color);
-    text-decoration: none;
+    
 }
 
 .link{
- 
+ text-decoration: none;
 }
 .logo-studio{
     color:var(--navy-blue-color);
@@ -116,7 +116,7 @@ background-color:var(--ocean-color)
     color: var(--navy-blue-color);
 }
 
-.druga-klasa{
+/*.druga-klasa{
 text-decoration: none;
 } /*nie jestem pewien tego*/
 
