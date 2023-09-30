@@ -89,14 +89,15 @@ color: #4D5AE5;
 }
 
 .filter-button:hover{
-    background-color: var(--iris-color);
+    color: var(--white-color);
+    background-color: var(--ocean-color);
 }
 .filter-button:focus{
-background-color:var(--cloud-color)
+    color: var(--white-color);
+background-color:var(--ocean-color)
 } 
 
 .filter-button{
-    background-color: #E7E9FC;
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
