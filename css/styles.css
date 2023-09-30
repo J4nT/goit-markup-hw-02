@@ -233,3 +233,8 @@ background-color: var(--ocean-color);
 .akapit-footer{
     color: var(--cloud-color);
 }
+.link-portfolio{
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: var(--slate-color);
+}
