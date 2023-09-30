@@ -93,16 +93,22 @@ text-decoration: none;
 color: #4D5AE5;
 }
 
-.filter-button:hover
+.filter-button:hover{
+    background-color: var(--iris-color);
+}
 .filter-button:focus{
-background-color:var(#4D5AE5)  /* Ten fragment poprawić */ 
+background-color:var(--cloud-color)
 } 
 
 .filter-button{
     background-color: #E7E9FC;
     font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     cursor: pointer;
-    color: #4D5AE5;
+    color: var(--iris-color)
 }
 
 .footer{
