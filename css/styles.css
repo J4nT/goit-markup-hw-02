@@ -218,3 +218,16 @@ background-color: var(--ocean-color);
 .button1:focus{
     background-color: var(--ocean-color);
 }
+.logo-header{
+    color: var(--navy-blue-color);
+}
+.address-index{
+    font-style: none;
+}
+.link-index{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--slate-color);
+    
+}
