@@ -17,7 +17,7 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-    font-weight: 500; /* Sprawzdić jaki jest domyślny dla strony*/
+    font-weight: 500; 
     
 }
 
@@ -36,7 +36,7 @@ body{
    
 }
 .logo-studio{
-    color:var(--cloud-color);
+    color:var(--navy-blue-color);
 }
 
 .list{ 
@@ -104,8 +104,23 @@ background-color:var(--ocean-color)
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    color: var(--iris-color)
+    color: var(--cloud-color)
 }
+
+.main-h2{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--navy-blue-color);
+}
+
+.description{
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+
 
 .footer{
     background-color: var(--navy-blue-color);
