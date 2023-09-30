@@ -47,6 +47,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
+text-decoration: none;
 }
 
 .link{
@@ -56,6 +57,7 @@ color: #2e2f42;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--navy-blue-color);
+    text-decoration: none;
 }
 
 
@@ -79,8 +81,9 @@ color:var(--ocean-color);
 .address-link{
 font-size: 16px;
 line-height: 1.5;
-background-color: var(--slate-color);
+color: var(--slate-color);
 list-style: none;
+letter-spacing: 0.02em;
 }
 .address-link:hover{
     color: var(--ocean-color);
