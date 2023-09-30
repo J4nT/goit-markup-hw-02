@@ -103,8 +103,9 @@ background-color:var(--ocean-color)
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    cursor: pointer;
-    color: var(--cloud-color)
+    cursor: pointer;   
+    color:var(--iris-color);
+    background-color: var(--cloud-color);
 }
 
 .main-h2{
@@ -115,6 +116,9 @@ background-color:var(--ocean-color)
     color: var(--navy-blue-color);
 }
 
+.drugaklasa{
+
+}
 .description{
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -126,5 +130,5 @@ letter-spacing: 0.02em;
     background-color: var(--navy-blue-color);
 }
 .footer-studio{
-    background-color: var(--cloud-color);
+    color: var(--cloud-color);
 }
