@@ -29,6 +29,7 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:var(--iris-color);
+    text-decoration: none;
     
 }
 
@@ -132,4 +133,41 @@ letter-spacing: 0.02em;
 }
 .footer-studio{
     color: var(--cloud-color);
+}
+
+.footer-studio-index{
+    background-color: var(--navy-blue-color);
+}
+.footer-index{
+    line-height: 1.5;
+    color: var(--cloud-color);
+    letter-spacing: 0.02em;
+}
+
+.section4{
+    background-color: var(--cloud-color);
+
+}
+.header4{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--navy-blue-color);
+}
+.markguerrero{
+    background-color: var(--white-color);
+}
+.generalheader{
+font-weight: 500;
+font-size: 20px;
+line-height: 12;
+letter-spacing: 0.02em;
+color: var(--navy-blue-color);
+}
+.akapit{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
