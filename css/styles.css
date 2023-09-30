@@ -144,11 +144,11 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 
-.section4{
+.section-four{
     background-color: var(--cloud-color);
 
 }
-.header4{
+.header-four{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -171,7 +171,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.header3{
+.header-three{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -179,31 +179,31 @@ letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--navy-blue-color);
 }
-.header2{
+.header-two{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--navy-blue-color);
 }
-.akapit2{
+.akapit-two{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--slate-color);
 }
 
-.section1{
+.section-one{
     background-color: var(--navy-blue-color);
 
 }
-.header1{
+.header-one{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--white-color);
 }
-.button1{
+.button-one{
     background-color: var(--iris-color);
     color: var(--white-color);
     font-family: 'Roboto',sans-serif;
